@@ -8,6 +8,5 @@ for(i=0;i<=num;i++)
 		sum=sum+i;
 	}
 	printf("%d",sum);
-	// your code goes here
 	return 0;
 }
